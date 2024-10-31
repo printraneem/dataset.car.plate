@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Car-plate']
+
+roboflow:
+  workspace: sa-m1s2a
+  project: car-plate-e1cz5
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/sa-m1s2a/car-plate-e1cz5/dataset/1

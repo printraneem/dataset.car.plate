@@ -1,0 +1,12 @@
+opencv-python
+numpy
+torch
+torchvision
+matplotlib  # Optional, for visualization
+requests
+norfair
+
+paddlepaddle-gpu
+paddleocr
+pandas
+opencv_python_headless
